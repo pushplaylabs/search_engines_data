@@ -1,5 +1,7 @@
 # Chrome Search Engines Definitions and Resources
 
+g3doc/chrome/search_engines/README.md
+
 ---
 
 ## Overview
@@ -15,4 +17,3 @@ Do not modify the Chromium files directly.
 The changes to the Search Engines definitions are requested by filing a bug
 under the [Regional Capabilities component](https://issues.chromium.org/issues?q=componentid:1710335).
 
----
