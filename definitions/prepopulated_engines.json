@@ -26,7 +26,7 @@
     // existing data should get a new version. Otherwise, existing data may
     // continue to be used and updates made here will not always appear.
     // Also then run tools/search_engine_choice/generate_search_engine_icons.py.
-    "kCurrentDataVersion": 168
+    "kCurrentDataVersion": 169
   },
 
   // The following engines are included in country lists and are added to the
@@ -644,6 +644,7 @@
       "favicon_url": "https://search.yahoo.co.jp/favicon.ico",
       "search_url": "https://search.yahoo.co.jp/search{google:pathWildcard}?ei={inputEncoding}&fr=crmas&p={searchTerms}",
       "suggest_url": "https://search.yahooapis.jp/AssistSearchService/V2/webassistSearch?p={searchTerms}&appid=oQsoxcyxg66enp0TYoirkKoryq6rF8bK76mW0KYxZ0v0WPLtn.Lix6wy8F_LwGWHUII-&output=fxjson&fr=crmas",
+      "new_tab_url": "https://search.yahoo.co.jp/?fr=crmas_dt",
       "type": "SEARCH_ENGINE_YAHOO",
       "id": 2
     },
