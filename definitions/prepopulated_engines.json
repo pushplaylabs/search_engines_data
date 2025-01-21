@@ -26,7 +26,7 @@
     // existing data should get a new version. Otherwise, existing data may
     // continue to be used and updates made here will not always appear.
     // Also then run tools/search_engine_choice/generate_search_engine_icons.py.
-    "kCurrentDataVersion": 169
+    "kCurrentDataVersion": 170
   },
 
   // The following engines are included in country lists and are added to the
@@ -163,10 +163,8 @@
       "image_translate_url": "{google:baseSearchByImageURL}upload?filtertype=tr&{imageTranslateSourceLocale}{imageTranslateTargetLocale}",
       "contextual_search_url": "{google:baseURL}_/contextualsearch?{google:contextualSearchVersion}{google:contextualSearchContextData}",
       "image_url_post_params": "encoded_image={google:imageThumbnail},image_url={google:imageURL},sbisrc={google:imageSearchSource},original_width={google:imageOriginalWidth},original_height={google:imageOriginalHeight},processed_image_dimensions={google:processedImageDimensions}",
-      "side_search_param": "sidesearch",
       "image_translate_source_language_param_key": "sourcelang",
       "image_translate_target_language_param_key": "targetlang",
-      "side_image_search_param": "sideimagesearch",
       "search_intent_params": ["si", "gs_ssp"],
       "alternate_urls": [
         "{google:baseURL}#q={searchTerms}",
