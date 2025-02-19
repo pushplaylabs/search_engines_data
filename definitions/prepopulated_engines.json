@@ -349,6 +349,16 @@
       "id": 56
     },
 
+    "startpage": {
+      "name": "startpage",
+      "keyword": "startpage.com",
+      "favicon_url": "https://www.startpage.com/favicon.ico",
+      "search_url": "https://www.startpage.com/sp/search?q={searchTerms}",
+      "suggest_url": "https://www.startpage.com/osuggestions?q={searchTerms}",
+      "type": "SEARCH_ENGINE_STARTPAGE",
+      "id": 113
+    },
+
     "yahoo": {
       "name": "Yahoo!",
       "keyword": "yahoo.com",
@@ -1372,16 +1382,6 @@
       ],
       "type": "SEARCH_ENGINE_SOFTONIC",
       "id": 80
-    },
-
-    "startpage": {
-      "name": "startpage",
-      "keyword": "startpage.com",
-      "favicon_url": "http://www.startpage.com/favicon.ico",
-      "search_url": "https://www.startpage.com/sp/search?q={searchTerms}",
-      "suggest_url": "https://www.startpage.com/osuggestions?q={searchTerms}",
-      "type": "SEARCH_ENGINE_STARTPAGE",
-      "id": 112
     },
 
     "sweetim": {
