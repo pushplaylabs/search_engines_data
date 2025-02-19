@@ -20,13 +20,13 @@
     // When adding new engines, increment this number and use it as the new
     // max ID. This is used by UMA stats and must be updated to include the full
     // range or else not all engines will be counted in stats.
-    "kMaxPrepopulatedEngineID": 112,
+    "kMaxPrepopulatedEngineID": 113,
 
     // Increment this if you change the data in ways that mean users with
     // existing data should get a new version. Otherwise, existing data may
     // continue to be used and updates made here will not always appear.
     // Also then run tools/search_engine_choice/generate_search_engine_icons.py.
-    "kCurrentDataVersion": 170
+    "kCurrentDataVersion": 171
   },
 
   // The following engines are included in country lists and are added to the
@@ -1372,6 +1372,16 @@
       ],
       "type": "SEARCH_ENGINE_SOFTONIC",
       "id": 80
+    },
+
+    "startpage": {
+      "name": "startpage",
+      "keyword": "startpage.com",
+      "favicon_url": "http://www.startpage.com/favicon.ico",
+      "search_url": "https://www.startpage.com/sp/search?q={searchTerms}",
+      "suggest_url": "https://www.startpage.com/osuggestions?q={searchTerms}",
+      "type": "SEARCH_ENGINE_STARTPAGE",
+      "id": 112
     },
 
     "sweetim": {
