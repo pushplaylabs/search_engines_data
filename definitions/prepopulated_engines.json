@@ -985,7 +985,8 @@
     }
   },
 
-  "generate_array": {
-    "array_name": "kAllEngines"
+  "aggregation": {
+    "type": "array",
+    "name": "kAllEngines"
   }
 }
