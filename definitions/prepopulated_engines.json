@@ -22,13 +22,13 @@
     // use a lower number. This number is used by UMA stats and must be updated
     // to include the full range or else not all engines will be counted in
     // stats.
-    "kMaxPrepopulatedEngineID": 113,
+    "kMaxPrepopulatedEngineID": 115,
 
     // Increment this if you change the data in ways that mean users with
     // existing data should get a new version. Otherwise, existing data may
     // continue to be used and updates made here will not always appear.
     // Also then run tools/search_engine_choice/generate_search_engine_icons.py.
-    "kCurrentDataVersion": 176
+    "kCurrentDataVersion": 177
   },
 
   // The following engines are included in country lists and are added to the
@@ -161,6 +161,16 @@
       ]
     },
 
+    "freespoke": {
+      "name": "Freespoke",
+      "keyword": "freespoke",
+      "search_url": "https://freespoke.com/search/web?q={searchTerms}",
+      "suggest_url": "https://api-lb.freespoke.com/typeahead/v1/browser?q={searchTerms}",
+      "favicon_url": "https://freespoke.com/favicon-16x16.png",
+      "type": "SEARCH_ENGINE_FREESPOKE",
+      "id": 114
+    },
+
     // *** *** *** *** WARNING *** *** *** ***
     // The Google Search Engine definitions below are not the only source of
     // truth for Android devices.
@@ -193,6 +203,26 @@
       "preconnect_to_search_url" : "ALLOWED",
       "prefetch_likely_navigations" : "ALLOWED",
       "id": 1
+    },
+
+    "info_com": {
+      "name": "Info.com",
+      "keyword": "info.com",
+      "favicon_url": "https://www.info.com/static/www.info.com/favicon.ico",
+      "search_url": "https://www.info.com/serp?q={searchTerms}&segment=info.0472",
+      "type": "SEARCH_ENGINE_INFO_COM",
+      "id": 97
+    },
+
+    "kagi": {
+      "name": "Kagi",
+      "keyword": "kagi.com",
+      "search_url": "https://kagi.com/search?q={searchTerms}",
+      "suggest_url": "https://kagisuggest.com/api/autosuggest?q={searchTerms}",
+      "new_tab_url": "https://kagi.com/",
+      "favicon_url": "https://kagi.com/favicon.ico",
+      "type": "SEARCH_ENGINE_KAGI",
+      "id": 115
     },
 
     "karma": {
@@ -241,6 +271,24 @@
       "id": 83
     },
 
+    "metager_de": {
+      "name": "MetaGer",
+      "keyword": "metager.de",
+      "favicon_url": "https://metager.de/favicon.ico",
+      "search_url": "https://metager.de/meta/meta.ger3?eingabe={searchTerms}",
+      "type": "SEARCH_ENGINE_METAGER",
+      "id": 98
+    },
+
+    "metager_gb": {
+      "name": "MetaGer",
+      "keyword": "metager.org",
+      "favicon_url": "https://metager.de/favicon.ico",
+      "search_url": "https://metager.org/meta/meta.ger3?eingabe={searchTerms}",
+      "type": "SEARCH_ENGINE_METAGER",
+      "id": 98
+    },
+
     "mojeek": {
       "name": "Mojeek",
       "keyword": "mojeek.com",
@@ -268,6 +316,24 @@
       "suggest_url": "https://www.nona.de/autocomplete/?q={searchTerms}",
       "type": "SEARCH_ENGINE_NONA",
       "id": 107
+    },
+
+    "oceanhero":{
+      "name": "OceanHero",
+      "keyword": "oceanhero.today",
+      "favicon_url": "https://oceanhero.today/favicon.ico",
+      "search_url": "https://oceanhero.today/web?q={searchTerms}",
+      "suggest_url": "https://api.oceanhero.today/suggestions?q={searchTerms}",
+      "new_tab_url": "https://oceanhero.today/home",
+      "type": "SEARCH_ENGINE_OCEANHERO",
+      "id": 99,
+      "regulatory_extensions": [
+        {
+          "variant": "RegulatoryExtensionType::kAndroidEEA",
+          "search_params": "fr=ch_om",
+          "suggest_params": "fr=ch_om"
+        }
+      ]
     },
 
     "panda": {
