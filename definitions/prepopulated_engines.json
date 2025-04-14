@@ -105,7 +105,7 @@
     },
 
     "coccoc": {
-      "name": "Cốc Cốc",
+      "name": "Cá»c Cá»c",
       "keyword": "coccoc.com",
       "favicon_url": "https://coccoc.com/favicon.ico",
       "search_url": "https://coccoc.com/search#query={searchTerms}",
@@ -633,7 +633,7 @@
     },
 
     "yahoo_es": {
-      "name": "Yahoo Búsquedas",
+      "name": "Yahoo BÃºsquedas",
       "keyword": "es.yahoo.com",
       "favicon_url": "https://es.search.yahoo.com/favicon.ico",
       "search_url": "https://es.search.yahoo.com/search{google:pathWildcard}?ei={inputEncoding}&p={searchTerms}",
