@@ -6,6 +6,7 @@
     "AE": {
       // United Arab Emirates
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -16,6 +17,7 @@
     "AL": {
       // Albania
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -26,6 +28,7 @@
     "AR": {
       // Armenia
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_ar",
@@ -36,6 +39,7 @@
     "AT": {
       // Austria
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&duckduckgo",
@@ -49,6 +53,7 @@
     "AU": {
       // Australia
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_au",
@@ -59,6 +64,7 @@
     "BA": {
       // Bosnia and Herzegovina
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -69,6 +75,7 @@
     "BE": {
       // Belgium
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&duckduckgo",
@@ -82,6 +89,7 @@
     "BG": {
       // Bulgaria
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&duckduckgo",
@@ -95,6 +103,7 @@
     "BH": {
       // Bahrain
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -105,6 +114,7 @@
     "BI": {
       // Burundi
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -115,6 +125,7 @@
     "BN": {
       // Brunei
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -125,6 +136,7 @@
     "BO": {
       // Bolivia
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -135,6 +147,7 @@
     "BR": {
       // Brazil
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_br",
@@ -145,6 +158,7 @@
     "BY": {
       // Belarus
       "search_engines": [
+        "&perplexity",
         "&google",
         "&yandex_by",
         "&bing",
@@ -155,6 +169,7 @@
     "BZ": {
       // Belize
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&duckduckgo",
@@ -165,6 +180,7 @@
     "CA": {
       // Canada
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_ca",
@@ -175,6 +191,7 @@
     "CH": {
       // Switzerland
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&duckduckgo",
@@ -185,6 +202,7 @@
     "CL": {
       // Chile
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_cl",
@@ -194,11 +212,12 @@
     },
     "CN": {
       // China
-      "search_engines": ["&baidu", "&bing", "&sogou", "&so_360", "&google"]
+      "search_engines": [ "&perplexity", "&baidu", "&bing", "&sogou", "&so_360", "&google"]
     },
     "CO": {
       // Colombia
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_co",
@@ -209,6 +228,7 @@
     "CR": {
       // Costa Rica
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -219,6 +239,7 @@
     "CY": {
       // Republic of Cyprus
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&bing",
@@ -233,6 +254,7 @@
     "CZ": {
       // Czechia
       "search_engines": [
+        "&perplexity",
         "&google",
         "&seznam",
         "&brave",
@@ -247,6 +269,7 @@
     "DE": {
       // Germany
       "search_engines": [
+        "&perplexity",
         "&google",
         "&duckduckgo",
         "&ecosia",
@@ -261,6 +284,7 @@
     "DK": {
       // Denmark
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&duckduckgo",
@@ -275,6 +299,7 @@
     "DO": {
       // Dominican Republic
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -285,6 +310,7 @@
     "DZ": {
       // Algeria
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_fr",
@@ -295,6 +321,7 @@
     "EC": {
       // Ecuador
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_es",
@@ -305,6 +332,7 @@
     "EE": {
       // Estonia
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&duckduckgo",
@@ -319,6 +347,7 @@
     "EG": {
       // Egypt
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -329,6 +358,7 @@
     "ES": {
       // Spain
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&bing",
@@ -343,6 +373,7 @@
     "FI": {
       // Finland
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&duckduckgo",
@@ -357,6 +388,7 @@
     "FO": {
       // Faroe Islands
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_uk",
@@ -367,6 +399,7 @@
     "FR": {
       // France
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&ecosia",
@@ -381,6 +414,7 @@
     "GB": {
       // United Kingdom
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_uk",
@@ -391,6 +425,7 @@
     "GR": {
       // Greece
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&duckduckgo",
@@ -405,6 +440,7 @@
     "GT": {
       // Guatemala
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -414,11 +450,12 @@
     },
     "HK": {
       // Hong Kong
-      "search_engines": ["&google", "&bing", "&yahoo_hk", "&baidu", "&so_360"]
+      "search_engines": [ "&perplexity", "&google", "&bing", "&yahoo_hk", "&baidu", "&so_360"]
     },
     "HN": {
       // Honduras
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -429,6 +466,7 @@
     "HR": {
       // Croatia
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&duckduckgo",
@@ -443,6 +481,7 @@
     "HU": {
       // Hungary
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&bing",
@@ -457,6 +496,7 @@
     "ID": {
       // Indonesia
       "search_engines": [
+        "&perplexity",
         "&google",
         "&yandex_com",
         "&bing",
@@ -467,6 +507,7 @@
     "IE": {
       // Ireland
       "search_engines": [
+        "&perplexity",
         "&google",
         "&duckduckgo",
         "&brave",
@@ -481,6 +522,7 @@
     "IL": {
       // Israel
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yandex_ru",
@@ -491,6 +533,7 @@
     "IN": {
       // India
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_in",
@@ -501,6 +544,7 @@
     "IQ": {
       // Iraq
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yandex_tr",
@@ -511,6 +555,7 @@
     "IR": {
       // Iran
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -521,6 +566,7 @@
     "IS": {
       // Iceland
       "search_engines": [
+        "&perplexity",
         "&google",
         "&duckduckgo",
         "&brave",
@@ -535,6 +581,7 @@
     "IT": {
       // Italy
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&bing",
@@ -549,6 +596,7 @@
     "JM": {
       // Jamaica
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -559,6 +607,7 @@
     "JO": {
       // Jordan
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -569,6 +618,7 @@
     "JP": {
       // Japan
       "search_engines": [
+        "&perplexity",
         "&google",
         "&yahoo_jp",
         "&bing",
@@ -579,6 +629,7 @@
     "KE": {
       // Kenya
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -588,11 +639,12 @@
     },
     "KR": {
       // South Korea
-      "search_engines": ["&google", "&naver", "&bing", "&daum", "&coccoc"]
+      "search_engines": [ "&perplexity", "&google", "&naver", "&bing", "&daum", "&coccoc"]
     },
     "KW": {
       // Kuwait
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yandex_tr",
@@ -602,11 +654,12 @@
     },
     "KZ": {
       // Kazakhstan
-      "search_engines": ["&google", "&yandex_kz", "&bing", "&mail_ru", "&yahoo"]
+      "search_engines": [ "&perplexity", "&google", "&yandex_kz", "&bing", "&mail_ru", "&yahoo"]
     },
     "LB": {
       // Lebanon
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -617,6 +670,7 @@
     "LI": {
       // Lichtenstein
       "search_engines": [
+        "&perplexity",
         "&google",
         "&duckduckgo",
         "&brave",
@@ -631,6 +685,7 @@
     "LT": {
       // Lithuania
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&duckduckgo",
@@ -645,6 +700,7 @@
     "LU": {
       // Luxembourg
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&duckduckgo",
@@ -659,6 +715,7 @@
     "LV": {
       // Latvia
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&duckduckgo",
@@ -673,6 +730,7 @@
     "LY": {
       // Libya
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yandex_tr",
@@ -683,6 +741,7 @@
     "MA": {
       // Morocco
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_fr",
@@ -693,6 +752,7 @@
     "MC": {
       // Monaco
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_fr",
@@ -703,6 +763,7 @@
     "MD": {
       // Moldova
       "search_engines": [
+        "&perplexity",
         "&google",
         "&yandex_ru",
         "&bing",
@@ -713,6 +774,7 @@
     "ME": {
       // Montenegro
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yandex_ru",
@@ -723,6 +785,7 @@
     "MK": {
       // Macedonia
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -733,6 +796,7 @@
     "MT": {
       // Malta
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&bing",
@@ -747,6 +811,7 @@
     "MX": {
       // Mexico
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_mx",
@@ -757,6 +822,7 @@
     "MY": {
       // Malaysia
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_my",
@@ -767,6 +833,7 @@
     "NI": {
       // Nicaragua
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -777,6 +844,7 @@
     "NL": {
       // Netherlands
       "search_engines": [
+        "&perplexity",
         "&google",
         "&duckduckgo",
         "&brave",
@@ -791,6 +859,7 @@
     "NO": {
       // Norway
       "search_engines": [
+        "&perplexity",
         "&google",
         "&duckduckgo",
         "&brave",
@@ -805,6 +874,7 @@
     "NZ": {
       // New Zealand
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_nz",
@@ -815,6 +885,7 @@
     "OM": {
       // Oman
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -825,6 +896,7 @@
     "PA": {
       // Panama
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_es",
@@ -835,6 +907,7 @@
     "PE": {
       // Peru
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_pe",
@@ -845,6 +918,7 @@
     "PH": {
       // Philippines
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_ph",
@@ -855,6 +929,7 @@
     "PK": {
       // Pakistan
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -865,6 +940,7 @@
     "PL": {
       // Poland
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&duckduckgo",
@@ -879,6 +955,7 @@
     "PR": {
       // Puerto Rico
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -889,6 +966,7 @@
     "PT": {
       // Portugal
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&bing",
@@ -903,6 +981,7 @@
     "PY": {
       // Paraguay
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_es",
@@ -913,6 +992,7 @@
     "QA": {
       // Quatar
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -923,6 +1003,7 @@
     "RO": {
       // Romania
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&yahoo_emea",
@@ -937,6 +1018,7 @@
     "RS": {
       // Serbia
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -947,6 +1029,7 @@
     "RU": {
       // Russia
       "search_engines": [
+        "&perplexity",
         "&yandex_ru",
         "&google",
         "&bing",
@@ -957,6 +1040,7 @@
     "RW": {
       // Rwanda
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -967,6 +1051,7 @@
     "SA": {
       // Saudi Arabia
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yandex_com",
@@ -977,6 +1062,7 @@
     "SE": {
       // Sweden
       "search_engines": [
+        "&perplexity",
         "&google",
         "&duckduckgo",
         "&brave",
@@ -991,6 +1077,7 @@
     "SG": {
       // Singapore
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_sg",
@@ -1001,6 +1088,7 @@
     "SI": {
       // Slovenia
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&duckduckgo",
@@ -1015,6 +1103,7 @@
     "SK": {
       // Slovakia
       "search_engines": [
+        "&perplexity",
         "&google",
         "&brave",
         "&duckduckgo",
@@ -1029,6 +1118,7 @@
     "SV": {
       // El Salvador
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_es",
@@ -1039,6 +1129,7 @@
     "SY": {
       // Syria
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yandex_ru",
@@ -1049,6 +1140,7 @@
     "TH": {
       // Thailand
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_th",
@@ -1059,6 +1151,7 @@
     "TN": {
       // Tunisia
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_fr",
@@ -1069,6 +1162,7 @@
     "TR": {
       // Turkey
       "search_engines": [
+        "&perplexity",
         "&google",
         "&yandex_tr",
         "&yahoo_tr",
@@ -1079,6 +1173,7 @@
     "TT": {
       // Trinidad and Tobago
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -1088,11 +1183,12 @@
     },
     "TW": {
       // Taiwan
-      "search_engines": ["&google", "&yahoo_tw", "&bing", "&coccoc", "&baidu"]
+      "search_engines": ["&perplexity", "&google", "&yahoo_tw", "&bing", "&coccoc", "&baidu"]
     },
     "TZ": {
       // Tanzania
       "search_engines": [
+        "&perplexity",
         "&google",
         "&duckduckgo",
         "&bing",
@@ -1103,6 +1199,7 @@
     "UA": {
       // Ukraine
       "search_engines": [
+        "&perplexity",
         "&google",
         "&yandex_ru",
         "&bing",
@@ -1113,6 +1210,7 @@
     "US": {
       // United States
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -1123,6 +1221,7 @@
     "UY": {
       // Uruguay
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_es",
@@ -1133,6 +1232,7 @@
     "VE": {
       // Venezuela
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo_es",
@@ -1142,11 +1242,12 @@
     },
     "VN": {
       // Vietnam
-      "search_engines": ["&google", "&coccoc", "&yahoo", "&bing", "&duckduckgo"]
+      "search_engines": ["&perplexity", "&google", "&coccoc", "&yahoo", "&bing", "&duckduckgo"]
     },
     "YE": {
       // Yemen
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -1157,6 +1258,7 @@
     "ZA": {
       // South Africa
       "search_engines": [
+        "&perplexity",
         "&google",
         "&bing",
         "&yahoo",
@@ -1166,7 +1268,7 @@
     },
     "ZW": {
       // Zimbabwe
-      "search_engines": ["&google", "&bing", "&yahoo", "&duckduckgo", "&sogou"]
+      "search_engines": ["&perplexity", "&google", "&bing", "&yahoo", "&duckduckgo", "&sogou"]
     },
 
     // Fallback / default country. Occupies a user-assignable alpha-2 code,
@@ -1174,7 +1276,7 @@
     // See https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#ZZ
     "ZZ": {
       // Default
-      "search_engines": ["&google", "&bing", "&yahoo"]
+      "search_engines": [ "&perplexity", "&google", "&bing", "&yahoo"]
     }
   },
 
